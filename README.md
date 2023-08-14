@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Issues](https://img.shields.io/github/issues-raw/your-username/repository-name)
 
 A Python-based tool designed to efficiently identify broken links on a given website. With concurrent requests and the integration of Selenium, ensure that you're providing the best user experience by keeping all your links in check.
 
