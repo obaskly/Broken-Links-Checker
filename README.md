@@ -7,7 +7,7 @@
 A Python-based tool designed to efficiently identify broken links on a given website. With concurrent requests and the integration of Selenium, ensure that you're providing the best user experience by keeping all your links in check.
 
 <p align="center">
-    <img src="imageedit_39_6561019352-1.png" width="600" alt="Broken Links Checker Screenshot/GIF">
+    <img src="\imageedit_39_6561019352-1.png" width="600" alt="Broken Links Checker Screenshot/GIF">
 </p>
 
 ## 🚀 Features
