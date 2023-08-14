@@ -30,8 +30,8 @@ A Python-based tool designed to efficiently identify broken links on a given web
 
 1. **Clone and navigate**:
    ```
-   git clone <your-repository-link>
-   cd <repository-directory>
+   git clone https://github.com/obaskly/Broken-Links-Checker.git
+   cd Broken-Links-Checker
    ```
 
 2. **Execute the script**:
